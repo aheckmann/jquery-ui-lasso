@@ -1,10 +1,10 @@
 /*
- * jQuery UI Selectable 1.8rc1
+ * jQuery UI Lasso 
  *
- * Copyright (c) 2010 AUTHORS.txt (http://jqueryui.com/about)
  * Dual licensed under the MIT (MIT-LICENSE.txt)
  * and GPL (GPL-LICENSE.txt) licenses.
  *
+ * Pulled out of jquery-ui-selectable
  * http://docs.jquery.com/UI/Selectables
  *
  * Depends:
